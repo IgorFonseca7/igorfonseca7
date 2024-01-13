@@ -1,4 +1,4 @@
-# 💫 Acredito que a melhor maneira de aprender é colocando as mãos na massa, e estou constantemente explorando novas linguagens e frameworks.
+# 💫 Acredito que a melhor maneira de aprender é colocando as mãos na massa, e estou constantemente explorando novas linguagens e frameworks
 
 
 ## 🌐 Socials:
