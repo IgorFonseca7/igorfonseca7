@@ -1,5 +1,4 @@
-# 💫 Acredito que a melhor maneira de aprender é colocando as mãos na massa, e estou constantemente explorando novas linguagens e frameworks
-
+# 💫Software Developer estou em constantemente aprendizado 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fonseca-3b9a64256/) 
